@@ -1,12 +1,11 @@
 Summary:	Estonian language HTS voice synthesis
-Summary(et):	Eesti keele HTS-kõnesüntees
+Summary(et.UTF-8):	Eesti keele HTS-kõnesüntees
 Name:		synthts_et
 Version:	0
 Release:	0.1
 License:	BSD
 Group:		Applications/Sound
 Source0:	https://github.com/ikiissel/synthts_et/archive/master/%{name}-%{version}.tar.gz
-# Source0-md5:	d5bf7cf6b642562d3577496d647766d3
 URL:		https://github.com/ikiissel/synthts_et
 BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
