@@ -1,7 +1,7 @@
 Summary:	Estonian language HTS voice synthesis
 Summary(et.UTF-8):	Eesti keele HTS-kõnesüntees
 Name:		synthts_et
-Version:	0
+Version:	0.01
 Release:	0.1
 License:	BSD
 Group:		Applications/Sound
